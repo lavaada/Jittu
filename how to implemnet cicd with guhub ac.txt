@@ -1,0 +1,16 @@
+how to implemnet cicd with guhub action
+
+pwd
+/d/tff
+ll
+git init
+git add .
+git status
+git remote add Drive https://github.com/lavaada/shhhhuub.git
+
+git init
+git add .
+git remote add trshul https://github.com/lavaada/trshul.git
+git status
+git fetch
+git push
