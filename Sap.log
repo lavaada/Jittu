@@ -1,0 +1,32 @@
+20230703-21:10:02.843 00000A6C - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230703-21:10:02.969 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-21:10:03.173 00001148 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230703-21:10:09.899 00004220 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230703-21:10:16.282 000042C0 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230703-21:10:22.640 00003318 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230703-21:10:23.078 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-21:10:28.983 000026E4 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230703-21:10:35.327 00003C54 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230703-21:10:41.669 00002EC4 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230703-21:10:43.091 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-21:10:48.012 00003274 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230703-21:10:54.348 00002920 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230703-21:11:00.691 000033DC - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230703-21:11:03.106 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-21:11:24.643 00003414 - ERROR: Incorrect status code 404 from 'www.ammyy.com/admin_v3.9_20200220-182209/AA_v3.exe'
+20230703-21:44:25.896 00001184 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230703-22:11:56.395 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-22:12:27.485 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-22:12:58.574 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-22:13:29.756 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-22:14:00.919 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-22:14:32.004 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-22:14:52.012 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-22:15:23.190 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-22:15:54.341 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-22:16:25.415 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-22:16:56.551 00003414 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230703-22:17:20.021 00003414 - ERROR: Incorrect status code 404 from 'www.ammyy.com/admin_v3.9_20200220-182209/AA_v3.exe'
+20230703-22:18:07.492 00003414 - ERROR: Error {12031} occured while connecting to server "http://rl.ammyy.com" 
+20230703-22:19:09.648 00003414 - ERROR: Error {12029} occured while connecting to server "http://rl.ammyy.com" 
+20230703-22:19:50.754 00003414 - ERROR: Error {12029} occured while connecting to server "http://rl.ammyy.com" 
